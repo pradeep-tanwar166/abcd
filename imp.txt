@@ -1,0 +1,38 @@
+1.First step is to download node js 
+npm create vite@latest from the vite
+then cd dir to the vitproject and write npm i in the terminal 
+
+To check this write npm run dev 
+you will see two icon come there vite+react 
+
+
+// if you want to write and start the react server than write 
+To install react write create-react-app and the name of project 
+
+and after that all the packages are download then to run this server write 
+npm start 
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+
+if you want to create your project with the help of vite then,
+
+--> npm create vite@latest
+
+and then give the name of project you want to create  
+
+--> abcproject
+
+after that choose package 
+
+-> react
+
+and then 
+
+  cd abcproject
+  npm install
+  npm run dev
+
+That it's your vite project is created in your vscode and you can see it on the browser.
